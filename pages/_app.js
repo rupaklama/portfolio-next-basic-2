@@ -1,5 +1,6 @@
 // sass - npm i sass, to install sass in next
-// Need to import Global Style into App component in next js framework
+// Need to import Global Style into App component in next js framework, 
+// not in other pages/components to apply Global Style
 import '../styles/main.scss';
 
 // This is our main page/component.
